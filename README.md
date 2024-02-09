@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunrr17&label=Profile%20views&color=0e75b6&style=flat" alt="varunrr17" /> </p>
 
+- 🌱 I’m currently learning **ReactJS**
+
+- 💬 Ask me about **MERN, Flask**
+
 - 📫 How to reach me **varunrrajput17@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunrr17&show_icons=true&locale=en" alt="varunrr17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunrr17&" alt="varunrr17" /></p>
+
